@@ -1,5 +1,5 @@
 package paint;
-
+// Hola :D
 import java.awt.Color;
 import java.awt.Graphics;
 
